@@ -1,0 +1,152 @@
+Boundary points occupancy f1 for object 0: 0.9405445762389548
+Uniform volume points occupancy f1 for object 0: 0.9773144982994642
+
+Boundary points occupancy f1 for object 1: 0.9883760755088595
+Uniform volume points occupancy f1 for object 1: 0.9944873976976267
+
+Boundary points occupancy f1 for object 2: 0.9959955668714503
+Uniform volume points occupancy f1 for object 2: 0.9976734636925204
+
+Boundary points occupancy f1 for object 3: 0.9951787154574887
+Uniform volume points occupancy f1 for object 3: 0.9976710143920462
+
+Boundary points occupancy f1 for object 4: 0.9694132406361813
+Uniform volume points occupancy f1 for object 4: 0.9885617569089726
+
+Boundary points occupancy f1 for object 5: 0.9661249771229079
+Uniform volume points occupancy f1 for object 5: 0.9978989049727297
+
+Boundary points occupancy f1 for object 6: 0.9924351135211504
+Uniform volume points occupancy f1 for object 6: 0.997180007384322
+
+Boundary points occupancy f1 for object 7: 0.9662003938815249
+Uniform volume points occupancy f1 for object 7: 0.9873403631059168
+
+Boundary points occupancy f1 for object 8: 0.9832553753538055
+Uniform volume points occupancy f1 for object 8: 0.9967138954442418
+
+Boundary points occupancy f1 for object 9: 0.5021764239593318
+Uniform volume points occupancy f1 for object 9: 0.5118163397983093
+
+Boundary points occupancy f1 for object 10: 0.9468452544613957
+Uniform volume points occupancy f1 for object 10: 0.9707647409275981
+
+Boundary points occupancy f1 for object 11: 0.9845950186624792
+Uniform volume points occupancy f1 for object 11: 0.9808870788275443
+
+Boundary points occupancy f1 for object 12: 0.9937394735815706
+Uniform volume points occupancy f1 for object 12: 0.9981772163519838
+
+Boundary points occupancy f1 for object 13: 0.9705808181216817
+Uniform volume points occupancy f1 for object 13: 0.9950096034423932
+
+Boundary points occupancy f1 for object 14: 0.9896502265743495
+Uniform volume points occupancy f1 for object 14: 0.9950080134184014
+
+Boundary points occupancy f1 for object 15: 0.722816398564711
+Uniform volume points occupancy f1 for object 15: 0.7858918401026119
+
+Boundary points occupancy f1 for object 16: 0.8982888061868329
+Uniform volume points occupancy f1 for object 16: 0.9635281180924097
+
+Boundary points occupancy f1 for object 17: 0.8914262413192419
+Uniform volume points occupancy f1 for object 17: 0.9630396915580963
+
+Boundary points occupancy f1 for object 18: 0.7609066901998388
+Uniform volume points occupancy f1 for object 18: 0.922118660628794
+
+Boundary points occupancy f1 for object 19 : 0.9775695920504223
+Uniform volume points occupancy f1 for object 19: 0.9943434369328034
+
+Boundary points occupancy f1 for object 20 : 0.9042878977900726
+Uniform volume points occupancy f1 for object 20: 0.9685851663019004
+
+Boundary points occupancy f1 for object 21 : 0.9893867277139052
+Uniform volume points occupancy f1 for object 21: 0.9924118941338157
+
+Boundary points occupancy f1 for object 22 : 0.9918223804875079
+Uniform volume points occupancy f1 for object 22: 0.9981985087035359
+
+Boundary points occupancy f1 for object 23 : 0.9930231035009119
+Uniform volume points occupancy f1 for object 23: 0.9971821954529483
+
+Boundary points occupancy f1 for object 24 : 0.9901221230901711
+Uniform volume points occupancy f1 for object 24: 0.9972347669240711
+
+Boundary points occupancy f1 for object 25 : 0.9905828397941008
+Uniform volume points occupancy f1 for object 25: 0.996792352372103
+
+Boundary points occupancy f1 for object 26 : 0.8714682975641317
+Uniform volume points occupancy f1 for object 26: 0.9454156378380889
+
+Boundary points occupancy f1 for object 27 : 0.9673224273354998
+Uniform volume points occupancy f1 for object 27: 0.9948693619690783
+
+Boundary points occupancy f1 for object 28 : 0.9116891521851378
+Uniform volume points occupancy f1 for object 28: 0.9641071126612828
+
+Boundary points occupancy f1 for object 29 : 0.991127820668793
+Uniform volume points occupancy f1 for object 29: 0.993647885999744
+
+Boundary points occupancy f1 for object 30 : 0.9956573391577983
+Uniform volume points occupancy f1 for object 30: 0.9936711651418677
+
+Boundary points occupancy f1 for object 31 : 0.9947918189661502
+Uniform volume points occupancy f1 for object 31: 0.9995102859079448
+
+Boundary points occupancy f1 for object 32 : 0.8987075253977594
+Uniform volume points occupancy f1 for object 32: 0.9734853873593167
+
+Boundary points occupancy f1 for object 33 : 0.9025385935401671
+Uniform volume points occupancy f1 for object 33: 0.9666858067058629
+
+Boundary points occupancy f1 for object 34 : 0.986457175883378
+Uniform volume points occupancy f1 for object 34: 0.9917222601255038
+
+Boundary points occupancy f1 for object 35 : 0.9901422780474953
+Uniform volume points occupancy f1 for object 35: 0.991242185229533
+
+Boundary points occupancy f1 for object 36 : 0.8043701456501902
+Uniform volume points occupancy f1 for object 36: 0.8900567746414763
+
+Boundary points occupancy f1 for object 37 : 0.9882086295960606
+Uniform volume points occupancy f1 for object 37: 0.9936725936716407
+
+Boundary points occupancy f1 for object 38 : 0.9941727955966582
+Uniform volume points occupancy f1 for object 38: 0.9981674235283315
+
+Boundary points occupancy f1 for object 39 : 0.9911143999146059
+Uniform volume points occupancy f1 for object 39: 0.9974311201802205
+
+Boundary points occupancy f1 for object 40 : 0.9908758551661471
+Uniform volume points occupancy f1 for object 40: 0.9962570450590063
+
+Boundary points occupancy f1 for object 41 : 0.9909450863756109
+Uniform volume points occupancy f1 for object 41: 0.9973455416787074
+
+Boundary points occupancy f1 for object 42 : 0.9934717543514688
+Uniform volume points occupancy f1 for object 42: 0.9977062233802597
+
+Boundary points occupancy f1 for object 43 : 0.9165279511597392
+Uniform volume points occupancy f1 for object 43: 0.9866259847494396
+
+Boundary points occupancy f1 for object 44 : 0.9954326874009162
+Uniform volume points occupancy f1 for object 44: 0.9997771917428098
+
+Boundary points occupancy f1 for object 45 : 0.9934344278509739
+Uniform volume points occupancy f1 for object 45: 0.9957145142830599
+
+Boundary points occupancy f1 for object 46 : 0.949546139552527
+Uniform volume points occupancy f1 for object 46: 0.9708460409851962
+
+Boundary points occupancy f1 for object 47 : 0.9880316931965429
+Uniform volume points occupancy f1 for object 47: 0.9963192421169658
+
+Boundary points occupancy f1 for object 48 : 0.9806466724126008
+Uniform volume points occupancy f1 for object 48: 0.9917105639306207
+
+Boundary points occupancy f1 for object 49 : 0.9936590155824936
+Uniform volume points occupancy f1 for object 49: 0.9984264531278639
+
+Average boundary points occupancy f1: 0.29121159063708063
+Average uniform volume points occupancy f1: 0.29602597796610264
