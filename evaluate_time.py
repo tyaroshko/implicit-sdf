@@ -36,7 +36,7 @@ class ModelTimer:
                 torch.cuda.synchronize()
                 timings[rep] = self.timer[0].elapsed_time(self.timer[1])
 
-        return np.min(timings)
+        return np.mean(timings), np.min(timings)
 
     def measure_single_point_inference_time(self, repetitions=300):
         timings = np.zeros((repetitions, 1))
@@ -56,11 +56,13 @@ class ModelTimer:
                 torch.cuda.synchronize()
                 timings[rep] = self.timer[0].elapsed_time(self.timer[1])
 
-        return np.min(timings) * 1e6
+        return np.mean(timings) * 1e6, np.min(timings) * 1e6
 
 model_path = "test_out/0/checkpoints/ngp.pth.tar"
 timer = ModelTimer(model_path)
-min_time = timer.measure_inference_time()
+mean_time, min_time = timer.measure_inference_time()
+print("Mean time for 100k points:", mean_time, "milliseconds")
 print("Minimum time for 100k points:", min_time, "milliseconds")
-min_single_point_time = timer.measure_single_point_inference_time()
+mean_single_point_time, min_single_point_time = timer.measure_single_point_inference_time()
+print("Mean time for a single point:", mean_single_point_time, "nanoseconds")
 print("Minimum time for a single point:", min_single_point_time, "nanoseconds")
